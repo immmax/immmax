@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @immmax
 - 👀 I’m interested in programming, electronics, CNC-tools, 3D-modelling and 3D-printing.
-- 🌱 I’m currently learning Python, SQL.
+- 🌱 I’m currently learning Python, SQL and project management.
 - 📫 How to reach me: t.me/immmax
 
 <!---
