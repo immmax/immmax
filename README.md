@@ -1,7 +1,9 @@
-### 👋 Hi, I’m @immmax
-👀 I’m interested in programming, electronics, CNC-tools, 3D-modelling and 3D-printing.
+### 👋 Hi, this is Max!
+👀 I’m interested in software development, electronics, CNC-tools, 3D-modelling, 3D-printing and many more.
 
-🌱 I’m currently learning Swift, Python, SQL and project management.
+🌱 I’m currently learning Swift, Python, project management and other development tools.
+
+I'm also working on couple pet-projects and one of them - with my juniour developers team.
 ### 📫 How to reach me:
 - [Twitter](https://twitter.com/immmax_25) - lastest news about my activity
 - [Telegram](https://http://t.me/immmax) - fastest way to reach me
