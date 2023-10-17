@@ -3,7 +3,7 @@
 
 🌱 I srudy SwiftUI, Python, project management and other development tools.
 
-I'm also working on couple pet-projects and one of them - with my juniour developers team.
+I'm also working on couple pet-projects and one of them - with my junior developers team.
 ### 📫 How to reach me:
 - [Twitter](https://twitter.com/immmax_25) - lastest news about my activity
 - [Telegram](https://http://t.me/immmax) - fastest way to reach me
