@@ -1,7 +1,8 @@
 ### 👋 Hi, this is Max!
-👀 I’m interested in software development, electronics, CNC-tools, 3D-modelling, 3D-printing and many more.
 
-🌱 I srudy SwiftUI, Python, project management and other development tools.
+🌱 I study SwiftUI, Python, project management and other development tools.
+
+👀 I’m interested in software development, electronics, CNC-tools, 3D-modelling, 3D-printing and many more.
 
 I'm also working on couple pet-projects and one of them - with my junior developers team.
 ### 📫 How to reach me:
