@@ -1,10 +1,10 @@
 ### 👋 Hi, this is Max!
 
-🌱 I study SwiftUI, Python, project management and other development tools.
+🌱 I study SwiftUI, Python, project management and other development skills.
 
-👀 I’m interested in software development, electronics, CNC-tools, 3D-modelling, 3D-printing and many more.
+👀 My main software development, especially iOS..
 
-I'm also working on couple pet-projects and one of them - with my devs team.
+I'm also working on couple pet-projects and one of them - with my developers team.
 ### 📫 How to reach me:
 - [Twitter](https://twitter.com/immmax_25) - lastest news about my activity
 - [Telegram](https://http://t.me/immmax) - fastest way to reach me
