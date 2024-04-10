@@ -2,7 +2,7 @@
 
 🌱 I study SwiftUI, Python, project management and other.
 
-👀 My main software development, especially iOS..
+👀 My main software development, especially iOS.
 
 I'm also working on couple pet-projects and one of them - with my developers team.
 ### 📫 How to reach me:
