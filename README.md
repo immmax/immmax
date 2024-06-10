@@ -2,7 +2,7 @@
 
 🌱 I'm an  iOS developer (SwiftUI basically). I also code on Python, study project management and other.
 
-👨🏻‍💻 I work on couple pet-projects and one of them - with my developers team.
+👨🏻‍💻 I work on couple pet-projects and one of them - with my development team.
 
 ### 📫 How to reach me:
 - [X (Former Twitter)](https://twitter.com/immmax_25) - the lastest news about my activity
