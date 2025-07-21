@@ -5,7 +5,7 @@
 ## About
 - 💻 I'm an Freelance Software Developer
 - 🚀 I love learning new technologies and continuously improving my skills
-- 📈 Currently working hard to build my career in a new country. Open to work
+- 📈 Currently working hard to build my career in a new country. Open to hire
 
 ## Skills
 #### iOS Development
